@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacob Lin</h1>
-<h3 align="center">A junior Computer Science student at Washington State University.</h3>
+<h3 align="center">A Computer Science student at Georgia Institute of Technology pursing for master degree.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMngzMWU1NnBpczBzaHVlZ2Frcmo0ZmZ0cHRueGVtbThlZThxMTFlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aer096d3vD4rYVsgNn/giphy.gif">
 
-
-- 🔭 I’m currently working on **personalized cough and sneeze detector/classifier with UpBeat Labs.**
-
-- 🌱 I’m currently learning **PyTorch**
 
 - 📫 How to reach me **zjacob1325@gmail.com**
 
